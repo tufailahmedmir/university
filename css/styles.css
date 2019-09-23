@@ -647,7 +647,7 @@ font-size: 12px;
         padding-bottom: 40px;
       }
       .latest_news_width{
-        margin: 0px;
+        margin: 0px auto;
         display: flex;
       }
       .latest_news_date{
