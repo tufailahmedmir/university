@@ -883,7 +883,7 @@ padding-bottom: 40px;
 .nav_pc_ul {
   font-weight: bolder;
 }
-nav_pc_ul{
+nav_pc_ul li a{
   color:black;
 }
 }
