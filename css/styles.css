@@ -896,4 +896,7 @@ padding-bottom: 40px;
   padding-top: 50px;
     padding-bottom: 50px;
 }
+.nav_pc_ul li a{
+  color: black;
+}
 }
