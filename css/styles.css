@@ -849,7 +849,8 @@ margin-bottom: 30px;
   display: block;
 }
 .events{
-  margin-bottom: 50px;
+  margin-bottom: 80px;
+  padding-top: 40px;
 }
 .form_1{
     background-color: #0000009e;
@@ -858,14 +859,14 @@ margin-bottom: 30px;
 padding-bottom: 40px;
 }
 .form_1_h3{
-      color: #050d2b;
+      color: white;
 }
 .form_1_h5{
-    color: #050d2b;
+      color: white;
 }
 .form_1 p{
-    color: #050d2b;
-    font-weight: bolder;
+    color: white;
+    font-weight: lighter;
 }
 .events_image img{
   width: 210px;
@@ -883,7 +884,16 @@ padding-bottom: 40px;
 .nav_pc_ul {
   font-weight: bolder;
 }
-.nav_pc_ul li a{
-  color:black;
+.research_subheading{
+  display: flex;
+  padding-left: 140px;
+}
+.research_info{
+  margin-right: 40px;
+  margin-left: 20px;
+}
+.research_subheading{
+  padding-top: 50px;
+    padding-bottom: 50px;
 }
 }
