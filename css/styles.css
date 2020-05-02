@@ -150,6 +150,16 @@
   margin-top: 20px;
 
 }
+.latest_news_sec1:hover {
+  background-color: #142850;
+  border: 2px solid #dae1e7;
+  color: white;
+}
+.events:hover{
+  background-color: #f8e1f4;
+}
+
+
 .latest_news_sec1 p img{
   width: 100%;
 }
